@@ -16,7 +16,7 @@ To record some useful functions.
 
 ## [2 formatDate](./2-format-date.js)
 
-函数的功能是将日期格式化成型如'yyyy-m-d h:m:s'类型数据，可以传递Date类型数据或者时间戳。
+函数的功能是将日期格式化成型如"yyyy-mm-dd hh:mm:ss"类型数据，可以传递Date类型数据或者时间戳。
 
 ## [3 deepCopy](./3-deep-copy.js)
 
